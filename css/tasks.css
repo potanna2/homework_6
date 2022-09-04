@@ -26,15 +26,15 @@
 }
 
 .tasks__button--toggleDone {
-    background: rgb(4 79 26 / 84%);
+    background: rgb(22 159 28);
 }
 
 .tasks__button--toggleDone:active {
-    background: rgba(9, 184, 61, 0.79);
+    background: rgb(10 255 21 / 71%);
 }
 
 .tasks__button--toggleDone:hover {
-    background: rgb(7 115 39 / 81%);
+    background: rgb(16 193 24 / 88%);
 }
 
 .tasks__button--remove {
