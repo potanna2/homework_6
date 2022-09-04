@@ -13,6 +13,10 @@
     border-bottom: 1px solid #ddd;
 }
 
+.tasks__content--done {
+    text-decoration: line-through;
+}
+
 .tasks__button {
     border: none;
     color: white;
@@ -21,14 +25,22 @@
     padding: 0;
 }
 
-.tasks__button--done {
-    background: green;
+.tasks__button--toggleDone {
+    background: rgb(4 79 26 / 84%);
 }
 
-.tasks__content--done {
-    text-decoration: line-through;
+.tasks__button--toggleDone:active {
+    background: rgba(9, 184, 61, 0.79);
+}
+
+.tasks__button--toggleDone:hover {
+    background: rgb(7 115 39 / 81%);
 }
 
 .tasks__button--remove {
-    background: red;
+    background: rgb(210 27 27);
+}
+
+.tasks__button--remove:active {
+    background: rgb(228 51 51);
 }
