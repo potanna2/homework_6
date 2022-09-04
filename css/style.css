@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.main {
+    font-family: "Lato", sans-serif;
+    max-width: 900px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 2em;
+    margin: .67em 0;
+}
+
+.section {
+    margin: 10px 0;
+    background: white;
+    box-shadow: 0 0 5px #ddd;
+}
