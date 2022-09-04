@@ -17,7 +17,7 @@
 }
 
 .form__button:active {
-    background: rgb(10 139 48 / 79%);
+    background: rgba(9, 184, 61, 0.79);
 }
 
 .form__button:hover {
