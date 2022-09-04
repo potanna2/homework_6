@@ -44,3 +44,7 @@
 .tasks__button--remove:active {
     background: rgb(228 51 51);
 }
+
+.tasks__button--remove:hover {
+    background: rgb(255 0 0);
+}
