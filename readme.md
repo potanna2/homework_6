@@ -3,8 +3,7 @@ On this page you can create your own to-do-list. You can add tasks, sign them as
 This page is created as a part of Frontend Developer course in YouCode.
 
 ## Demo
-
-https://github.com/potanna2/homework_6
+https://potanna2.github.io/homework_6/
 
 ![homework_1](https://user-images.githubusercontent.com/108223754/188324812-d8caa356-f5db-4201-ac50-a4ce3a8a8650.gif)
 
