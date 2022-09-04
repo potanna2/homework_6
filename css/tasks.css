@@ -30,7 +30,7 @@
 }
 
 .tasks__button--toggleDone:active {
-    background: rgb(10 255 21 / 71%);
+    background: rgba(202, 255, 10, 0.71);
 }
 
 .tasks__button--toggleDone:hover {
