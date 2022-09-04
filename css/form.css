@@ -8,3 +8,18 @@
     padding: 10px;
     border: 1px solid #ddd;
 }
+
+.form__button {
+    padding: 10px;
+    background: rgb(4 79 26 / 84%);
+    color: white;
+    border: none;
+}
+
+.form__button:active {
+    background: rgb(10 139 48 / 79%);
+}
+
+.form__button:hover {
+    background: rgb(7 115 39 / 81%);
+}
