@@ -1,0 +1,10 @@
+.form {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-gap: 20px;
+}
+
+.form__input {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
