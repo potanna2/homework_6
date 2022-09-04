@@ -4,7 +4,8 @@ This page is created as a part of Frontend Developer course in YouCode.
 
 ## Demo
 
-https://github.com/potanna2/homework_6
+https://potanna2.github.io/homework_6/
+
 
 ## Technologies
 HTML
