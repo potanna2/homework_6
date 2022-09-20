@@ -23,5 +23,5 @@
 }
 
 .buttons__button:disabled {
-    color: #ccc;
+    color: rgb(209, 20, 20);
 }
