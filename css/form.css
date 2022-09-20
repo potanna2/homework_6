@@ -20,12 +20,14 @@
     background: rgb(4 79 26 / 84%);
     color: white;
     border: none;
-}
-
-.form__button:active {
-    background: rgb(188, 239, 20, 0.79);
+    transition: 1s;
 }
 
 .form__button:hover {
     background: rgb(7 115 39 / 81%);
+    transform: scale(1.1);
+}
+
+.form__button:active {
+    background: rgb(188, 239, 20, 0.79);
 }
