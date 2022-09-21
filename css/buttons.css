@@ -18,10 +18,10 @@
     }
 }
 
-.buttons__button:hover {
-    color: rgb(19, 223, 19);
+.buttons__button:disabled {
+    color: rgb(166, 154, 154);
 }
 
-.buttons__button:disabled {
-    color: rgb(209, 20, 20);
+.buttons__button:hover {
+    color: rgb(19, 223, 19);
 }
